@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Compose File Manager</string>
+    <string name="create_new_folder">Create new folder</string>
+    <string name="folder_name">Folder name</string>
+    <string name="cancel">Cancel</string>
+    <string name="rename">Rename</string>
+    <string name="create">Create</string>
+    <string name="delete">Delete</string>
+    <string name="home">Home</string>
+    <string name="back">Back</string>
+    <string name="folder">Folder</string>
+    <string name="file">File</string>
+    <string name="more">More</string>
+</resources>
